@@ -6,7 +6,7 @@ Each folder contains the dataset(in xlsx or csv format), the dashboard (in pbix)
 
 ##  Finding relationships between products at a Retail in France
 
-![APP](https://github.com/smitpatel8/power-bi-dashboard/edit/main/Retail_Analysis.png)
+![APP](https://github.com/smitpatel8/power-bi-dashboard/edit/main/Retail%20Analysis.png)
 
 This projects can be used to learn about Power BI and how to use it to create data visualizations and reports. They also provide examples of how to analyze different types of data, including financial data, healthcare data, gaming data, retail data, education data, and historical data.
 
